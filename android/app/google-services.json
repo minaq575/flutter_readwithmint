@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764263667790",
+    "project_id": "readwithmint",
+    "storage_bucket": "readwithmint.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764263667790:android:5d6ebc85fde3b1a6f6cb1f",
+        "android_client_info": {
+          "package_name": "com.example.readwithmint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1LGlJHccgVwbLQn-OLGTujAovGY8bAkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

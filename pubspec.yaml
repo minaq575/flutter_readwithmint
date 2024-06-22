@@ -1,0 +1,37 @@
+name: readwithmint
+description: A new Flutter project.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.5 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  font_awesome_flutter: ^10.5.0
+  firebase_core: ^2.16.0
+  audioplayers: ^5.1.0
+  flutter_progress_hud: ^2.0.2
+  firebase_auth: ^4.10.0
+  animations: ^2.0.8
+  flutter_dotenv: ^5.1.0
+  http: ^1.1.0
+  curved_navigation_bar: ^1.0.3
+  animated_text_kit: ^4.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - images/
+    - assets/sounds/
+    # - lib/.env
+  fonts:
+    - family: Thai
+      fonts:
+        - asset: Fonts/IBMPlexSansThai-Bold.ttf
